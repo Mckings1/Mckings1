@@ -7,7 +7,7 @@ I'm a software engineer (front-end Heavy, back-end and wordpress developer).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a project [YIFI SOCCER](https://youtharisefc.academy/).
+- 🔭 I’m currently working on a project [YOUTH ARISE FOOTBALL ACADEMY](https://youtharisefc.academy/).
 - 🌱 I’m currently learning PowerPlatform...
 - 👯 I’m looking to collaborate on React projects.
 - 🤔 I’m looking for help with ...
