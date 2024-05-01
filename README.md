@@ -1,7 +1,7 @@
 Hi there 👋 Welcome to my profile.
 
 My name is Oluwasegun Michael. 
-I'm a Developer (front-end Heavy, back-end || wordpress developer).
+I'm a Developer and I love to write/see codes.
 
 <!-- **Mckings1/Mckings1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
