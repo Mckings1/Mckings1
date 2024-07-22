@@ -8,8 +8,7 @@ I'm a Developer and I love to write/see codes.
 
 More About me...:
 - 🔭 Aspiring Data Scientist.
-- 🔭 I currently work as an IT Support Engineer and develop processes (processmaker)....
-- 🌱 I’m currently learning more php/nodejs...
+- 🌱 I’m currently learning python...
 - 👯 I’m looking to collaborate on projects/remote works.
 - 💬 Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion.
 - 📫 You can reach me via email at alabioluwasegun8@gmail.com
