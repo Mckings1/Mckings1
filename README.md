@@ -1,6 +1,6 @@
 Hi there 👋 Welcome to my profile.
 
-My name is Oluwasegun Michael. 
+Data science || Scrum master || Frontend developer
 
 Through my academic projects and/or certifications, I have pratical experience in statistical analysis, predictive modelling, and data visualization/storytelling.
 
