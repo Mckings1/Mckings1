@@ -8,7 +8,7 @@ Through my academic projects and/or certifications, I have pratical experience i
 
 More About me...:
 - 🔭 Aspiring Data Scientist. Msc Data Science in view.
-- 🌱 I’m currently learning python...
+- 🌱 I’m currently learning advance react and python...
 - 👯 I’m looking to collaborate on projects/remote works.
 - </> A passionate developer with proficient skills in Js, php, mysql, html, css, python, ReactJs.
 - 💬 Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion.
