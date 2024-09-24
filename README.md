@@ -7,8 +7,8 @@ Through my academic projects and/or certifications, I have pratical experience i
 <!-- **Mckings1/Mckings1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 More About me...:
-- 🔭 Aspiring Data Scientist. Msc Data Science in view.
-- 🌱 I’m currently learning advance react and python...
+- 🔭 Front-End Developer(software engineer), exploring opportunities to integrate data science into my career.
+- 🌱 I’m currently learning Advance React and Python...
 - 👯 I’m looking to collaborate on projects/remote works.
 - </> A passionate developer with proficient skills in Js, php, mysql, html, css, python, ReactJs.
 - 💬 Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion.
