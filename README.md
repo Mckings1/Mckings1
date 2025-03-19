@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my profile.
 
-### Front-end Developer | Data Scientist | Scrum Master, Project Manager
+### Data Scientist | Front-end Developer | Scrum Master, Project Manager
 
 Through my academic projects and/or certifications, I have pratical experience in statistical analysis, predictive modelling, and data visualization/storytelling.
 
