@@ -1,13 +1,13 @@
 ## Hi there 👋 Welcome to my profile.
 
-### Data Scientist | Front-end Developer | Scrum Master, Project Manager
+### Data Scientist | Front-end Developer |Automation
 
 Through my academic projects and/or certifications, I have pratical experience in statistical analysis, predictive modelling, and data visualization/storytelling.
 
 <!-- **Mckings1/Mckings1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 More About me...:
-- 🔭 Software Engineer(Front-End Engineer, Blockchain developer), exploring opportunities to integrate data science into my career.
+- 🔭 Software Engineer(Front-End) exploring opportunities to integrate data science into my career.
 - 🌱 I’m currently learning Advance React and Python...
 - 👯 I’m looking to collaborate on projects/remote works.
 - </> A passionate developer with proficient skills in Js, php, mysql, html, css, python, ReactJs, DApps.
