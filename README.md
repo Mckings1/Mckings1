@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my profile.
 
-### Aspiring Data Scientist | Front-end Engineer | AI & Automation Engineer
+### Aspiring Data Scientist | Front-End Engineer | AI & Automation Engineer
 
 Through my academic projects and/or certifications, I have pratical experience in statistical analysis, predictive modelling, and data visualization/storytelling.
 
