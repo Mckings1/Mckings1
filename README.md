@@ -45,7 +45,8 @@ I am a passionate developer with a growing focus on **AI and Data Science**. Thr
 ### **GitHub Stats**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mckings1\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mckings1\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mckings1&layout=compact&langs_count=6&hide=html,css&theme=radical)
+
 
 ---
 
