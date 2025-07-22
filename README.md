@@ -2,7 +2,7 @@
 
 ## **Data Scientist | AI & Automation Engineer | Software Engineer**
 
-I am a passionate developer with a growing focus on **AI and Data Science**. Through academic projects, certifications, and freelance work, I have built **practical experience in statistical analysis, predictive modeling, and data storytelling**.
+I am a passionate developer with a growing focus on **AI and Data Science**. Through academic projects, certifications, freelance and work experience, I have built **practical experience in statistical analysis, predictive modeling, and data storytelling**.
 
 ---
 
@@ -22,7 +22,7 @@ I am a passionate developer with a growing focus on **AI and Data Science**. Thr
 
 * **Languages & Frameworks:** Python, JavaScript, React, C#, Node.js.
 * **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter.
-* **AI & Automation:** Azure AI, LangChain, OpenAI, RPA concepts.
+* **AI & Automation:** Azure AI, LangChain, OpenAI, n8n, ProcessMaker, RPA concepts.
 * **Cloud & DevOps:** Azure Functions, Azure Static Web Apps, Docker.
 
 ---
