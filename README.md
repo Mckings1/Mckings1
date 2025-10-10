@@ -8,7 +8,8 @@ I am a passionate developer with a growing focus on **AI and Data Science**. Thr
 
 ### **About Me**
 
-* 🔭 **Software Engineer (Automation Engineer)** exploring opportunities to integrate Data Science into my career.
+* 🔭 **Software Engineer (Automation Engineer)** 
+* ⚡ Exploring opportunities to integrate Data Science into my career.
 * 🌱 Currently pursuing **DP-100 → AI-102** as part of my Azure AI and Data Science journey.
 * 👯 Open to **collaborations, remote roles, or open-source contributions**.
 * 💻 Skilled in **JavaScript, ReactJS, Typescript, Python, and C#**.
