@@ -12,7 +12,7 @@ I am a passionate developer with a growing focus on **AI and Data Science**. Thr
 * ⚡ Exploring opportunities to integrate Data Science into my career.
 * 🌱 Currently pursuing **DP-100 → AI-102** as part of my Azure AI and Data Science journey.
 * 👯 Open to **collaborations, remote roles, or open-source contributions**.
-* 💻 Skilled in **JavaScript, ReactJS, nodeJS, Typescript, Python, and C#**.
+* 💻 Skilled in **JavaScript, ReactJS, nodeJS, Typescript, and Python**.
 * 💬 **Let's discuss AI, automation, or data-driven solutions!**
 * 📫 Reach me at **[alabioluwasegun8@gmail.com](mailto:alabioluwasegun8@gmail.com)**.
 * ⚡ **Fun fact:** *You don't know what you don't know until you know that you don't know it.*
@@ -21,7 +21,7 @@ I am a passionate developer with a growing focus on **AI and Data Science**. Thr
 
 ### **Core Skills**
 
-* **Languages & Frameworks:** Python, JavaScript, React, C#, Node.js.
+* **Languages & Frameworks:** Python, JavaScript, React, Node.js.
 * **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter.
 * **AI & Automation:** Azure AI, LangChain, OpenAI, n8n, ProcessMaker, RPA concepts.
 * **Cloud & DevOps:** Azure Functions, Azure Static Web Apps, Docker.
