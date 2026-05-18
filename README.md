@@ -31,9 +31,9 @@ I build intelligent backend systems and AI pipelines — from hybrid RAG archite
 ### **Certifications**
 
 * Microsoft Certified: **AI-900 — Azure AI Fundamentals**
-* Microsoft Certified: **AZ-900 — Azure Fundamentals**
-* Microsoft Certified: **DP-900 — Azure Data Fundamentals**
+* Meta Certified: Professional Front-End
 * IBM Certified: **Data Science Professional**
+* Professional Scrum Master I
 * Currently pursuing: **AI-102 — Azure AI Engineer Associate**
 
 ---
